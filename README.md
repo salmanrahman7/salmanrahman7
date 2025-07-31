@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26width%3D650%26lines%3DHello,%2BI%27m%2BSalmanur%2BRahman%3BA%2Bpassionate%2Bsoftware%2Bdeveloper%2Bfrom%2BBangladesh" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Hello,+I'm+Salmanur+Rahman;A+passionate+software+developer+from+Bangladesh" alt="Typing SVG" /></a></div>
 <div align="center">
 <h2>My Contributions</h2>
 <br>
