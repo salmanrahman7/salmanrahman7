@@ -16,6 +16,10 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: 'salmanrahman7'
+          # Add these lines to customize the look
+          theme: github-dark
+          color_snake: '#ff6666' # A bright, custom red color
+          
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
