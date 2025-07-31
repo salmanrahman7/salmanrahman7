@@ -1,7 +1,7 @@
-<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)
 </div>
 <div align="right">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7)
 </div>
 <div align="center">
 <h2>My Contributions</h2>
