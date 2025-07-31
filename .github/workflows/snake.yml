@@ -23,12 +23,11 @@ jobs:
           color_snake: '#8d43d3'
           color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
 
-      - name: Fix permissions and add background to SVG
+      - name: Overwrite SVG with background
         run: |
-          # Set write permissions on the SVG file
-          chmod +w dist/github-contribution-grid-snake.svg
-          # Add the background color to the <svg> tag
-          sed -i 's/<svg/<svg style="background-color:#1f2428"/' dist/github-contribution-grid-snake.svg
+          SVG_CONTENT=$(cat dist/github-contribution-grid-snake.svg)
+          MODIFIED_CONTENT="${SVG_CONTENT/<svg/<svg style=\"background-color:#1f2428\"}"
+          echo "$MODIFIED_CONTENT" > dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
