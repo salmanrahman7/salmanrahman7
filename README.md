@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)](https://git.io/typing-svg)
+<div align="right">
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+</div>
 <div align="center">
-<h2>🐍 My Contributions 🐍</h2>
+<h2>My Contributions</h2>
 <br>
 <img src="https://raw.githubusercontent.com/salmanrahman7/salmanrahman7/output/github-snake-dark.svg" alt="snake eating my contributions" />
 <br><br><br>
