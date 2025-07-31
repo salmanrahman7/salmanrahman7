@@ -23,7 +23,20 @@ jobs:
 
       - name: Add a dark background to the SVG
         run: |
-          sed -i '1s/^/<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="940" height="120" style="background-color: #1f2428;">/' dist/github-contribution-grid-snake.svg
+          SVG_FILE="dist/github-contribution-grid-snake.svg"
+          if [ -f "$SVG_FILE" ]; then
+            # Read the SVG content
+            CONTENT=$(cat "$SVG_FILE")
+
+            # Add the background style attribute to the <svg> tag
+            MODIFIED_CONTENT="${CONTENT/<svg /<svg style=\"background-color:#1f2428\" /}"
+
+            # Overwrite the file with the new content
+            echo "$MODIFIED_CONTENT" > "$SVG_FILE"
+          else
+            echo "SVG file not found!"
+            exit 1
+          fi
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
