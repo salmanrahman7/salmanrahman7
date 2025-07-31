@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Salman+Rahman!;" />
 </div>
   <h3 align="center">A passionate software developer from Bangladesh</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7.salmanrahman7" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7" />
 
 <br/>
 <div align="center">
