@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: salesp07/github-contribution-grid-snake@v1
+      - uses: platane/snk@v0.0.1
         id: snake-gif
         with:
           github_user_name: 'salmanrahman7'
