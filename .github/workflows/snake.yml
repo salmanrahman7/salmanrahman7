@@ -22,21 +22,13 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
           color_snake: '#8d43d3'
           color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
-          # We will not use color_bg here to avoid any conflicts
 
-      - name: Add Dark Background to SVG
+      - name: Fix permissions and add background to SVG
         run: |
-          node -e "
-            const fs = require('fs');
-            const path = 'dist/github-contribution-grid-snake.svg';
-            const content = fs.readFileSync(path, 'utf8');
-            const modifiedContent = content.replace(
-              '<svg',
-              '<svg style=\\"background-color:#1f2428\\"'
-            );
-            fs.writeFileSync(path, modifiedContent, 'utf8');
-            console.log('Background color successfully added to SVG.');
-          "
+          # Set write permissions on the SVG file
+          chmod +w dist/github-contribution-grid-snake.svg
+          # Add the background color to the <svg> tag
+          sed -i 's/<svg/<svg style="background-color:#1f2428"/' dist/github-contribution-grid-snake.svg
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
