@@ -1,9 +1,13 @@
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)
-</div>
-<div align="right">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7)
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Salman+Rahman!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
+
+<br/>
 <div align="center">
 <h2>My Contributions</h2>
 <br>
