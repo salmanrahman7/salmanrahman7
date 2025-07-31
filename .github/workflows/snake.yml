@@ -13,23 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: platane/snk@v3
+      - name: Generate the snake animation
+        uses: platane/snk@v3
         with:
           github_user_name: 'salmanrahman7'
-          
-          # Use dark_mode to ensure a dark background for the entire SVG
-          dark_mode: true
-          
-          # The colors for the contribution squares (from level 0 to 4)
+          color_snake: '#8d43d3'
           color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
-          
-          # The color of the snake
-          color_snake: '#8d43d3' 
-          
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-      - name: Deploy
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Add a dark background to the SVG
+        run: |
+          sed -i '1s/^/<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="940" height="120" style="background-color: #1f2428;">/' dist/github-contribution-grid-snake.svg
+
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
