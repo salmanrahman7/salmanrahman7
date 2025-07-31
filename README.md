@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer   from Bangladesh)](https://git.io/typing-svg)
+</div>
 <div align="right">
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 </div>
