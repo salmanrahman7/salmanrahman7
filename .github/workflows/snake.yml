@@ -22,7 +22,6 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
           color_snake: '#8d43d3'
           color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
-          color_bg: '#1f2428' # Set the background color here
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
