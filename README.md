@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-  <h3 align="center">A passionate software developer from Bangladesh</h3>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7" />
-
-<br/>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 <div align="center">
 <h2>My Contributions</h2>
 <br>
 <img src="https://raw.githubusercontent.com/salmanrahman7/salmanrahman7/output/github-snake-dark.svg" alt="snake eating my contributions" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7" />
 <br><br><br>
 </div>
 
