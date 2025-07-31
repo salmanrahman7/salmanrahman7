@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello, I'm Salmanur Rahman; A passionate software developer from Bangladesh)](https://git.io/typing-svg)
 <h3 align="center">A passionate software developer from Bangladesh</h3>
+</div>
 <div align="center">
 <h2>My Contributions</h2>
 <br>
