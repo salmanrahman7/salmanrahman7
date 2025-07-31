@@ -16,10 +16,17 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: 'salmanrahman7'
-          # Add these lines to customize the look
-          theme: github-dark
-          color_snake: '#ff6666' # A bright, custom red color
-          
+
+          # Custom color configuration to match your desired image
+          # The background color
+          color_bg: '#1f2428' 
+
+          # The colors for the contribution squares (from level 0 to 4)
+          color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
+
+          # The color of the snake
+          color_snake: '#8d43d3' 
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
