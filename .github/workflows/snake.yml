@@ -22,13 +22,21 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
           color_snake: '#8d43d3'
           color_dots: '#2a3136,#0e4429,#006d32,#26a641,#39d353'
-          # Note: We are no longer using color_bg here as we'll set it below
+          # We will not use color_bg here to avoid any conflicts
 
       - name: Add Dark Background to SVG
-        uses: kazuya-b/svg-background-action@v1
-        with:
-          svg_path: dist/github-contribution-grid-snake.svg
-          color: "#1f2428"
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = 'dist/github-contribution-grid-snake.svg';
+            const content = fs.readFileSync(path, 'utf8');
+            const modifiedContent = content.replace(
+              '<svg',
+              '<svg style=\\"background-color:#1f2428\\"'
+            );
+            fs.writeFileSync(path, modifiedContent, 'utf8');
+            console.log('Background color successfully added to SVG.');
+          "
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
