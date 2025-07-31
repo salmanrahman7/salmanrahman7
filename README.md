@@ -1,9 +1,9 @@
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)
+<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, I'm Salman; A passionate software developer from Bangladesh)
 </div>
 <div align="right">
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=salmanrahman7)
 </div>
+<div align="center">
 <h2>My Contributions</h2>
 <br>
 <img src="https://raw.githubusercontent.com/salmanrahman7/salmanrahman7/output/github-snake-dark.svg" alt="snake eating my contributions" />
