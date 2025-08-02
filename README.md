@@ -8,7 +8,26 @@
 </div>
 
 # 💫 About Me:
-Passionate Software Developer
+### 🎓 About Me
+
+Hello! I'm a passionate and hardworking final-year Computer Science student with a knack for solving real-world problems with code. I'm an aspiring Software Engineer driven by curiosity and a desire to build impactful solutions.
+
+---
+
+### 🚀 What I'm Looking For
+
+I am actively seeking a Software Engineer internship to gain hands-on experience with building software solutions. My goal is to tackle challenging engineering problems, contribute to meaningful projects, and grow my skills under the guidance of industry experts. I'm eager to learn and ready to make a tangible impact.
+
+---
+
+### 💪 My Strengths & Soft Skills
+
+As a dedicated and resourceful problem-solver, I thrive on challenges. I am adept at using available resources to find effective solutions and am not afraid to face complex problems head-on.
+
+* **Problem-Solving:** I enjoy breaking down complex issues into manageable components and developing logical solutions.
+* **Adaptability:** Eager to learn new technologies and frameworks, I can quickly adjust to new environments and project requirements.
+* **Teamwork & Collaboration:** I believe great software is built through clear communication and collaborative effort.
+* **Strong Work Ethic:** As a hardworking individual, I am committed to delivering high-quality work and meeting deadlines.
 
 
 ## 🌐 Socials:
