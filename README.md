@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-Hello! I'm a passionate and hardworking final-year Computer Science student with a knack for solving real-world problems with code. I'm an aspiring Software Engineer driven by curiosity and a desire to build impactful solutions.
+Hello! I'm a final-year Computer Science student at IUB with a knack for solving real-world problems with code. I'm an aspiring Software Engineer driven by curiosity and a desire to build impactful solutions.
 
 
 ## 🚀 What I'm Looking For
