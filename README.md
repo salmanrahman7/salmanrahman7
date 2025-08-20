@@ -11,6 +11,16 @@
 
 Hello! I'm a final-year Computer Science Undergrad at IUB with a knack for solving real-world problems with code. I'm an aspiring Software Engineer driven by curiosity and a desire to build impactful solutions.
 
+## 📄 Resume
+
+You can download my resume here:
+
+<div align="center"> 
+  <a href="https://drive.google.com/uc?export=download&id=1QJVACqqlm4kkDoOCzzLMEKRyp8kNXqB7" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
+  </a>
+</div>
+
 
 ## 🚀 What I'm Looking For
 
@@ -25,7 +35,6 @@ As a dedicated and resourceful problem-solver, I thrive on challenges. I am adep
 * **Adaptability:** Eager to learn new technologies and frameworks, I can quickly adjust to new environments and project requirements.
 * **Teamwork & Collaboration:** I believe great software is built through clear communication and collaborative effort.
 * **Strong Work Ethic:** As a hardworking individual, I am committed to delivering high-quality work and meeting deadlines.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanrahman7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanrahman.contact@gmail.com) 
