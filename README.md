@@ -15,8 +15,8 @@ Hello! I'm a final-year Computer Science Undergrad at IUB with a knack for solvi
 
 You can download my resume here:
 
-<div align="center"> 
-  <a href="https://drive.google.com/uc?export=download&id=1QJVACqqlm4kkDoOCzzLMEKRyp8kNXqB7" target="_blank">
+<div align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1nChALnfQLAd01DNRp6ttViTFqKF6vTxO" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
   </a>
 </div>
