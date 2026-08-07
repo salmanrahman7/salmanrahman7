@@ -24,7 +24,7 @@ You can download my resume here:
 
 ## 🚀 What I'm Looking For
 
-I am actively seeking full time Software Engineer positions to gain hands-on experience with building software solutions. My goal is to tackle challenging engineering problems, contribute to meaningful projects, and grow my skills under the guidance of industry experts. I'm eager to learn and ready to make a tangible impact.
+I am always open for new opportunities to gain hands-on experience with building software solutions. My goal is to tackle challenging engineering problems, contribute to meaningful projects, and grow my skills under the guidance of industry experts. I'm eager to learn and ready to make a tangible impact.
 
 
 ## 💪 My Strengths & Soft Skills
