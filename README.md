@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-Hello! I'm a final-year Computer Science Undergrad at IUB with a knack for solving real-world problems with code. I'm an aspiring Software Engineer driven by curiosity and a desire to build impactful solutions.
+Hello! I'm a Software Engineer driven by curiosity and a desire to build impactful solutions.
 
 ## 📄 Resume
 
@@ -24,7 +24,7 @@ You can download my resume here:
 
 ## 🚀 What I'm Looking For
 
-I am actively seeking a Software Engineer internship to gain hands-on experience with building software solutions. My goal is to tackle challenging engineering problems, contribute to meaningful projects, and grow my skills under the guidance of industry experts. I'm eager to learn and ready to make a tangible impact.
+I am actively seeking full time Software Engineer positions to gain hands-on experience with building software solutions. My goal is to tackle challenging engineering problems, contribute to meaningful projects, and grow my skills under the guidance of industry experts. I'm eager to learn and ready to make a tangible impact.
 
 
 ## 💪 My Strengths & Soft Skills
