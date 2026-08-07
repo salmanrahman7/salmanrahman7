@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello,+I'm+Salmanur+Rahman;A+passionate+software+developer+from+Bangladesh" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello,+I'm+Salmanur+Rahman;A+passionate+Software+Developer+from+Bangladesh" alt="Typing SVG" /></a></div>
 <div align="center">
 <h2>📈 My GitHub Contributions</h2>
 <br>
@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-Hello! I'm a Software Engineer driven by curiosity and a desire to build impactful solutions.
+Hello! I'm a CS graduate from IUB and a Software Engineer driven by curiosity and a desire to build impactful solutions.
 
 ## 📄 Resume
 
