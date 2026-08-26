@@ -16,7 +16,7 @@ Hello! I'm a CS graduate from IUB and a Software Engineer driven by curiosity an
 You can download my resume here:
 
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1nChALnfQLAd01DNRp6ttViTFqKF6vTxO" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=19pKiTUjrkoSQ9K5tWa8UPjw6i7-zeDdm" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-green?style=for-the-badge&logo=adobeacrobatreader" alt="resume"/>
   </a>
 </div>
